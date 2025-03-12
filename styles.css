@@ -23,6 +23,10 @@ html {
     --main-color: rgb(0, 230, 210);
 }
 
+.typed-cursor {
+    color: white;
+}
+
 body {
     background: var(--bg-color);
     color: var(--text-color);
